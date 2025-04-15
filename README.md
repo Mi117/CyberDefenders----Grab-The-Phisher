@@ -18,7 +18,7 @@ TOOLS USED:
 - VIRTUAL MACHINE (in the specific VMWARE with Kali Linux)
 - GOOGLE SEARCH (or any search engine of choice)
 
-WALKTROUGH:
+WALKTHROUGH:
 
 Q1) Which wallet is used for asking the seed phrase?
 
