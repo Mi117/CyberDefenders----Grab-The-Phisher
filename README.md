@@ -10,7 +10,14 @@ A decentralized finance (DeFi) platform recently reported multiple user complain
 
 Your task is to conduct threat intelligence analysis on the phishing infrastructure, identify indicators of compromise (IoCs), and track the attacker’s online presence, including aliases and Telegram identifiers, to understand their tactics, techniques, and procedures (TTPs).
 
-Walkthrough:
+Link to the challenge: https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/
+
+TOOLS USED:
+- COMMAND LINE INTERFACE
+- VIRTUAL MACHINE (in the specific VMWARE with Kali Linux)
+- GOOGLE SEARCH (or any search engine of choice)
+
+WALKTROUGH:
 
 Q1) Which wallet is used for asking the seed phrase?
 
