@@ -6,6 +6,7 @@ INTRO
 Cybersecurity professionals constantly face the challenge of identifying and mitigating phishing attacks that grow increasingly sophisticated. The CyberDefenders "GrabThePhisher" challenge represents an excellent opportunity to hone these skills by providing a realistic scenario to analyze a phishing campaign. This article presents a comprehensive analysis of the challenge, exploring the techniques employed by attackers, drawing key conclusions, and offering practical protection strategies.
 
 SCENARIO:
+
 A decentralized finance (DeFi) platform recently reported multiple user complaints about unauthorized fund withdrawals. A forensic review uncovered a phishing site impersonating the legitimate PancakeSwap exchange, luring victims into entering their wallet seed phrases. The phishing kit was hosted on a compromised server and exfiltrated credentials via a Telegram bot.
 
 Your task is to conduct threat intelligence analysis on the phishing infrastructure, identify indicators of compromise (IoCs), and track the attacker’s online presence, including aliases and Telegram identifiers, to understand their tactics, techniques, and procedures (TTPs).
